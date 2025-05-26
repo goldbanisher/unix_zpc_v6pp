@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FileScanner",
+	"dir-cur-src" : "/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/FileScanner",
+	"dir-top-bld" : "/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FileScanner",
+	"dir-top-src" : "/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/FileScanner",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FileScanner/CMakeFiles/filescanner.dir"
+}
