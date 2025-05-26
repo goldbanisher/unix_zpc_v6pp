@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/double.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/double.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/double.c",
+  "output": "CMakeFiles/v6pptongji.dir/double.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/file.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/file.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/file.c",
+  "output": "CMakeFiles/v6pptongji.dir/file.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/float.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/float.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/float.c",
+  "output": "CMakeFiles/v6pptongji.dir/float.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/malloc.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/malloc.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/malloc.c",
+  "output": "CMakeFiles/v6pptongji.dir/malloc.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/print_parse.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/print_parse.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/print_parse.c",
+  "output": "CMakeFiles/v6pptongji.dir/print_parse.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/sprintf.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/sprintf.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/sprintf.c",
+  "output": "CMakeFiles/v6pptongji.dir/sprintf.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/stdio.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/stdio.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/stdio.c",
+  "output": "CMakeFiles/v6pptongji.dir/stdio.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/stdlib.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/stdlib.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/stdlib.c",
+  "output": "CMakeFiles/v6pptongji.dir/stdlib.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/string.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/string.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/string.c",
+  "output": "CMakeFiles/v6pptongji.dir/string.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/sys.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/sys.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/sys.c",
+  "output": "CMakeFiles/v6pptongji.dir/sys.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/lib",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/lib/src/../include -I/home/vesper_center_326/unix-v6pp-tongji/lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/v6pptongji.dir/time.c.o -c /home/vesper_center_326/unix-v6pp-tongji/lib/src/time.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/lib/src/time.c",
+  "output": "CMakeFiles/v6pptongji.dir/time.c.o"
+}
+]

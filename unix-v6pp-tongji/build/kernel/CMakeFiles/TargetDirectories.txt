@@ -1,0 +1,8 @@
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/CMakeFiles/v6pp_pack.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/CMakeFiles/kernel.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/CMakeFiles/edit_cache.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/CMakeFiles/rebuild_cache.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/boot/CMakeFiles/boot.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/boot/CMakeFiles/sector2.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/boot/CMakeFiles/edit_cache.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/kernel/boot/CMakeFiles/rebuild_cache.dir

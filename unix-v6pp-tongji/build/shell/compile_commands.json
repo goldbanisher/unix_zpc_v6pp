@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.elf.exe-elf_i386.dir/CommandTree.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/CommandTree.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/CommandTree.c",
+  "output": "CMakeFiles/Shell.elf.exe-elf_i386.dir/CommandTree.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.elf.exe-elf_i386.dir/ExecuteCommand.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/ExecuteCommand.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/ExecuteCommand.c",
+  "output": "CMakeFiles/Shell.elf.exe-elf_i386.dir/ExecuteCommand.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.elf.exe-elf_i386.dir/PreExecute.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/PreExecute.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/PreExecute.c",
+  "output": "CMakeFiles/Shell.elf.exe-elf_i386.dir/PreExecute.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.elf.exe-elf_i386.dir/main.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/main.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/main.c",
+  "output": "CMakeFiles/Shell.elf.exe-elf_i386.dir/main.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.exe-i386pe.dir/CommandTree.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/CommandTree.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/CommandTree.c",
+  "output": "CMakeFiles/Shell.exe-i386pe.dir/CommandTree.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.exe-i386pe.dir/ExecuteCommand.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/ExecuteCommand.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/ExecuteCommand.c",
+  "output": "CMakeFiles/Shell.exe-i386pe.dir/ExecuteCommand.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.exe-i386pe.dir/PreExecute.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/PreExecute.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/PreExecute.c",
+  "output": "CMakeFiles/Shell.exe-i386pe.dir/PreExecute.c.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/shell",
+  "command": "/usr/bin/cc -I/home/vesper_center_326/unix-v6pp-tongji/shell -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/include -I/home/vesper_center_326/unix-v6pp-tongji/shell/../lib/src  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -no-pie -nostdlib -fno-stack-protector -fomit-frame-pointer -fno-unwind-tables -fno-asynchronous-unwind-tables -fno-exceptions -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -O0 -m32 -Wno-unused-variable -fdiagnostics-color=always -m32 -o CMakeFiles/Shell.exe-i386pe.dir/main.c.o -c /home/vesper_center_326/unix-v6pp-tongji/shell/main.c",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/shell/main.c",
+  "output": "CMakeFiles/Shell.exe-i386pe.dir/main.c.o"
+}
+]

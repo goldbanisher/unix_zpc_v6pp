@@ -1,0 +1,326 @@
+[
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/dev/ATADriver.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/dev/ATADriver.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/dev/ATADriver.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/dev/ATADriver.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/dev/BlockDevice.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/dev/BlockDevice.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/dev/BlockDevice.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/dev/BlockDevice.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/dev/BufferManager.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/dev/BufferManager.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/dev/BufferManager.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/dev/BufferManager.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/dev/CharDevice.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/dev/CharDevice.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/dev/CharDevice.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/dev/CharDevice.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/dev/DMA.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/dev/DMA.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/dev/DMA.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/dev/DMA.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/dev/DeviceManager.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/dev/DeviceManager.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/dev/DeviceManager.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/dev/DeviceManager.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/elf/ELF.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/elf/ELF.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/elf/ELF.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/elf/ELF.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/fs/File.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/fs/File.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/fs/File.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/fs/File.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/fs/FileManager.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/fs/FileManager.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/fs/FileManager.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/fs/FileManager.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/fs/FileSystem.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/fs/FileSystem.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/fs/FileSystem.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/fs/FileSystem.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/fs/INode.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/fs/INode.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/fs/INode.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/fs/INode.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/fs/OpenFileManager.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/fs/OpenFileManager.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/fs/OpenFileManager.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/fs/OpenFileManager.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/interrupt/DiskInterrupt.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/interrupt/DiskInterrupt.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/interrupt/DiskInterrupt.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/interrupt/DiskInterrupt.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/interrupt/Exception.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/interrupt/Exception.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/interrupt/Exception.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/interrupt/Exception.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/interrupt/KeyboardInterrupt.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/interrupt/KeyboardInterrupt.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/interrupt/KeyboardInterrupt.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/interrupt/KeyboardInterrupt.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/interrupt/SystemCall.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/interrupt/SystemCall.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/interrupt/SystemCall.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/interrupt/SystemCall.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/interrupt/TimeInterrupt.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/interrupt/TimeInterrupt.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/interrupt/TimeInterrupt.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/interrupt/TimeInterrupt.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/kernel/Kernel.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/kernel/Kernel.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/kernel/Kernel.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/kernel/Kernel.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/kernel/Lib.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/kernel/Lib.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/kernel/Lib.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/kernel/Lib.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/kernel/Utility.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/kernel/Utility.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/kernel/Utility.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/kernel/Utility.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/kernel/Video.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/kernel/Video.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/kernel/Video.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/kernel/Video.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/kernel/main.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/kernel/main.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/kernel/main.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/kernel/main.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/kernel/splash.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/kernel/splash.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/kernel/splash.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/kernel/splash.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/libyrosstd/stdio.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/libyrosstd/stdio.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/libyrosstd/stdio.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/libyrosstd/stdio.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/libyrosstd/string.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/libyrosstd/string.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/libyrosstd/string.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/libyrosstd/string.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/libyrosstd/sys/LinkedList.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/libyrosstd/sys/LinkedList.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/libyrosstd/sys/LinkedList.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/libyrosstd/sys/LinkedList.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/CMOSTime.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/CMOSTime.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/CMOSTime.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/CMOSTime.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/Chip8253.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/Chip8253.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/Chip8253.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/Chip8253.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/Chip8259A.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/Chip8259A.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/Chip8259A.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/Chip8259A.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/GDT.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/GDT.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/GDT.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/GDT.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/IDT.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/IDT.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/IDT.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/IDT.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/Machine.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/Machine.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/Machine.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/Machine.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/PageDirectory.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/PageDirectory.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/PageDirectory.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/PageDirectory.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/machine/TaskStateSegment.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/machine/TaskStateSegment.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/machine/TaskStateSegment.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/machine/TaskStateSegment.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/mm/Allocator.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/mm/Allocator.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/mm/Allocator.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/mm/Allocator.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/mm/KernelAllocator.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/mm/KernelAllocator.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/mm/KernelAllocator.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/mm/KernelAllocator.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/mm/New.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/mm/New.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/mm/New.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/mm/New.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/mm/PageManager.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/mm/PageManager.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/mm/PageManager.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/mm/PageManager.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/mm/SwapperManager.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/mm/SwapperManager.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/mm/SwapperManager.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/mm/SwapperManager.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/pe/PEParser.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/pe/PEParser.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/pe/PEParser.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/pe/PEParser.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/proc/MemoryDescriptor.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/proc/MemoryDescriptor.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/proc/MemoryDescriptor.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/proc/MemoryDescriptor.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/proc/Process.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/proc/Process.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/proc/Process.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/proc/Process.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/proc/ProcessManager.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/proc/ProcessManager.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/proc/ProcessManager.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/proc/ProcessManager.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/proc/Text.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/proc/Text.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/proc/Text.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/proc/Text.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/proc/User.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/proc/User.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/proc/User.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/proc/User.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/tty/CRT.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/tty/CRT.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/tty/CRT.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/tty/CRT.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/tty/Keyboard.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/tty/Keyboard.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/tty/Keyboard.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/tty/Keyboard.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/tty/TTy.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/tty/TTy.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/tty/TTy.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/tty/TTy.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/vesa/console.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/vesa/console.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/vesa/console.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/vesa/console.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/vesa/fonts.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/vesa/fonts.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/vesa/fonts.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/vesa/fonts.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -m32 -o CMakeFiles/v6pp_pack.dir/vesa/svga.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/src/vesa/svga.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/vesa/svga.cpp",
+  "output": "CMakeFiles/v6pp_pack.dir/vesa/svga.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -o CMakeFiles/kernel.dir/_yros_cmake_hack/null.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/build/kernel/_yros_cmake_hack/null.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel/_yros_cmake_hack/null.cpp",
+  "output": "CMakeFiles/kernel.dir/_yros_cmake_hack/null.cpp.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/nasm -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include -g -d USE_VESA -f bin -o boot/CMakeFiles/boot.dir/boot.asm.o /home/vesper_center_326/unix-v6pp-tongji/src/boot/boot.asm",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/src/boot/boot.asm",
+  "output": "boot/CMakeFiles/boot.dir/boot.asm.o"
+},
+{
+  "directory": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel",
+  "command": "/usr/bin/c++ -DENABLE_SPLASH -DUSE_VESA -I/home/vesper_center_326/unix-v6pp-tongji/src -I/home/vesper_center_326/unix-v6pp-tongji/src/include  -Wall -g -m32 -nostartfiles -fno-builtin -nostdinc -fno-pic -fno-pie -fno-rtti -no-pie -nostdlib -fno-stack-protector -fno-threadsafe-statics -fno-exceptions -fno-use-cxa-atexit -mno-red-zone -mno-mmx -mno-sse -mno-sse2 -Wno-unused-variable -Wno-unused-but-set-variable -fdiagnostics-color=always -std=gnu++20 -o boot/CMakeFiles/sector2.dir/__/_yros_cmake_hack/null.cpp.o -c /home/vesper_center_326/unix-v6pp-tongji/build/kernel/_yros_cmake_hack/null.cpp",
+  "file": "/home/vesper_center_326/unix-v6pp-tongji/build/kernel/_yros_cmake_hack/null.cpp",
+  "output": "boot/CMakeFiles/sector2.dir/__/_yros_cmake_hack/null.cpp.o"
+}
+]

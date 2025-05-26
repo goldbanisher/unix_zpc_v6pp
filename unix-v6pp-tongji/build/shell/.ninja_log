@@ -1,0 +1,13 @@
+# ninja log v6
+1	39	1748217857649521572	CMakeFiles/Shell.elf.exe-elf_i386.dir/ExecuteCommand.c.o	c4a527b78bafe0e4
+1	42	1748217857649521572	CMakeFiles/Shell.elf.exe-elf_i386.dir/CommandTree.c.o	9d9d5c462baaabcb
+140	160	1748217857789522917	Shell.exe-i386pe	700116fcf93d61cf
+42	67	1748217857689521956	CMakeFiles/Shell.elf.exe-elf_i386.dir/main.c.o	af60b8626d09bc1
+110	140	1748217857756189263	CMakeFiles/Shell.exe-i386pe.dir/main.c.o	d1d593cff8b01f02
+39	69	1748217857686188591	CMakeFiles/Shell.elf.exe-elf_i386.dir/PreExecute.c.o	a0fffbeb828deb71
+106	135	1748217857752855898	CMakeFiles/Shell.exe-i386pe.dir/PreExecute.c.o	1da4d0ba59743385
+69	106	1748217857716188879	CMakeFiles/Shell.exe-i386pe.dir/ExecuteCommand.c.o	702e7c397ec9dac5
+67	110	1748217857712855513	CMakeFiles/Shell.exe-i386pe.dir/CommandTree.c.o	d46a0a359f833201
+135	155	1748217857782856186	Shell.elf.exe-elf_i386	eaf3edf7f4114817
+1	18	1748217872159660959	Shell.elf.exe-elf_i386	eaf3edf7f4114817
+1	23	1748217872159660959	Shell.exe-i386pe	700116fcf93d61cf

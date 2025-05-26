@@ -1,0 +1,13 @@
+# ninja log v6
+2	31	1748217856152840527	CMakeFiles/v6pptongji.dir/float.c.o	b88014faec992509
+76	112	1748217856229507931	CMakeFiles/v6pptongji.dir/time.c.o	b3b20ad801d6446d
+2	32	1748217856152840527	CMakeFiles/v6pptongji.dir/malloc.c.o	a85958cac4f3f29e
+1	33	1748217856152840527	CMakeFiles/v6pptongji.dir/double.c.o	4a1f2ab130c0e581
+1	36	1748217856152840527	CMakeFiles/v6pptongji.dir/file.c.o	15cc052f54c2493d
+33	57	1748217856186174181	CMakeFiles/v6pptongji.dir/stdio.c.o	74ec62f3b5f0b3c8
+31	64	1748217856182840815	CMakeFiles/v6pptongji.dir/print_parse.c.o	e83a6db5eee9ae18
+32	76	1748217856182840815	CMakeFiles/v6pptongji.dir/sprintf.c.o	79a0fe0df166128b
+112	161	1748217856262841584	libv6pptongji.a	4a5d4ee7ea197621
+36	80	1748217856189507546	CMakeFiles/v6pptongji.dir/stdlib.c.o	fb19a6711b257783
+57	85	1748217856209507738	CMakeFiles/v6pptongji.dir/string.c.o	3ec0b8783e5db9ba
+64	103	1748217856216174469	CMakeFiles/v6pptongji.dir/sys.c.o	932e61d79f031b5c

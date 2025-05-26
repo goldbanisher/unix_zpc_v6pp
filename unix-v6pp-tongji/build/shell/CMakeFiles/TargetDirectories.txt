@@ -1,0 +1,4 @@
+/home/vesper_center_326/unix-v6pp-tongji/build/shell/CMakeFiles/Shell.elf.exe-elf_i386.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/shell/CMakeFiles/Shell.exe-i386pe.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/shell/CMakeFiles/edit_cache.dir
+/home/vesper_center_326/unix-v6pp-tongji/build/shell/CMakeFiles/rebuild_cache.dir
