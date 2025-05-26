@@ -1,3 +1,0 @@
-/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FsEditor/CMakeFiles/fsedit.dir
-/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FsEditor/CMakeFiles/edit_cache.dir
-/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FsEditor/CMakeFiles/rebuild_cache.dir

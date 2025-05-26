@@ -1,3 +1,0 @@
-/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FileScanner/CMakeFiles/filescanner.dir
-/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FileScanner/CMakeFiles/edit_cache.dir
-/home/vesper_center_326/unix-v6pp-tongji/tools/unix-v6pp-filesystem-editor/src/build/FileScanner/CMakeFiles/rebuild_cache.dir
